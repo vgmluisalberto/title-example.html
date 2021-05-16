@@ -1,0 +1,10 @@
+<! DOCTYPE html >
+< html >
+  < cabeza >
+    < meta  charset = " utf-8 " >
+    < título > & lt; título & gt; elemento </ título >
+  </ cabeza >
+  < cuerpo >
+    < h1 > & lt; h1 & gt; elemento </ h1 >
+  </ cuerpo >
+</ html >
